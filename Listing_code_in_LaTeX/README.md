@@ -111,6 +111,6 @@ lstinputlisting[language=Python]{source_filename.py}
 * PHP
 * XSLT
 
-Также поддерживаются другие диалекты. Полный список Вы можете найти в <a herf="http://mirror.hmc.edu/ctan/macros/latex/contrib/listings/listings.pdf">документации</a>.
+Также поддерживаются другие диалекты. Полный список Вы можете найти в <a href="http://mirror.hmc.edu/ctan/macros/latex/contrib/listings/listings.pdf">документации</a>.
 
-Пример конфигурации пакета listing Вы можете найти <a href="">здесь</a>.
+Пример конфигурации пакета listing Вы можете найти <a href="https://github.com/BogdanKlimov11/LaTex_course/blob/main/Listing_code_in_LaTeX/Listing_package_configurations.tex">здесь</a>.
