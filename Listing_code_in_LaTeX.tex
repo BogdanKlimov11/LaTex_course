@@ -1,0 +1,28 @@
+usepackage{listings}
+usepackage{color}
+
+definecolor{dkgreen}{rgb}{0,0.6,0}
+definecolor{gray}{rgb}{0.5,0.5,0.5}
+definecolor{mauve}{rgb}{0.58,0,0.82}
+
+lstset{ % Список настроек
+    language=Octave,                % Язык программирования 
+    numbers=left,                   % С какой стороны нумеровать
+    numberstyle=tinycolor{gray},    % Стиль который будет использоваться для нумерации строк
+    stepnumber=2,                   % Шаг между линиями. Если 1, то будет пронумерована каждая строка 
+    numbersep=5pt,                  
+    backgroundcolor=color{white},   % Цвет подложки. Вы должны добавить пакет color - usepackage{color}
+    showspaces=false,               
+    showstringspaces=false,         
+    showtabs=false,                
+    frame=single,                   % Добавить рамку
+    rulecolor=color{black},        
+    tabsize=2,                      % Tab - 2 пробела
+    breaklines=true,                % Автоматический перенос строк
+    breakatwhitespace=true,         % Переносить строки по словам
+    title=lstname,                  % Показать название подгружаемого файла
+    
+    keywordstyle=color{blue},       % Стиль ключевых слов
+    commentstyle=color{dkgreen},    % Стиль комментариев
+    stringstyle=color{mauve}        % Стиль литералов
+}
