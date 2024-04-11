@@ -1,3 +1,7 @@
+<h1 id="top">Справочник по системе компьютерной верстки LaTex</h1>
+
+---
+
 <!-- Table of Contents -->
 <h3>Table of Contents</h3>
 <nav>
@@ -29,7 +33,7 @@
 ---
 
 <!-- General -->
-<h4 id="general">General</h4>
+<h4 id="general">General <a href="#top">↑top↑</a></h4>
 
 В математике существует достаточно много различных символов! Ниже приведены те, к которым можно получить доступ прямо с клавиатуры:
 
@@ -38,7 +42,7 @@
 ```
 
 <!-- Degrees and indices -->
-<h5 id="degrees-indices">Degrees and Indices</h5>
+<h5 id="degrees-indices">Degrees and Indices <a href="#top">↑top↑</a></h5>
 
 Степени и индексы эквивалентны верхним и нижним индексам в обычном текстовом режиме. Символ каретки (`^`; так же известный как циркумфлекс) 
 используется чтобы что-то поднять, а нижнее подчёркивание (`_`) для опускания. Если необходимо повысить или понизить выражение, содержащее 
@@ -70,7 +74,7 @@
 </table>
 
 <!-- Color -->
-<h5 id="color">Color</h5>
+<h5 id="color">Color <a href="#top">↑top↑</a></h5>
 
 В формулах можно изменять цвет символов.
 
@@ -82,7 +86,7 @@
 </table>
 
 <!-- Fractions and binomials -->
-<h5 id="fractions-binomials">Fractions and Binomials</h5>
+<h5 id="fractions-binomials">Fractions and Binomials <a href="#top">↑top↑</a></h5>
 
 Дроби создаются с помощью команды `\frac{numerator}{denominator}`. Так же и Биномиальный коэффициент можно записать используя команду `\binom`.
 
@@ -161,7 +165,7 @@ $$
 $$
 
 <!-- Roots -->
-<h5 id="roots">Roots</h5>
+<h5 id="roots">Roots <a href="#top">↑top↑</a></h5>
 
 Команда `\sqrt` создаёт символ квадратного корня, окружающий математическое выражение. Он принимает необязательный аргумент в квадратных скобках 
 (`[` и `]`) для изменения показателя (степени) корня:
@@ -181,7 +185,7 @@ $$
 </table>
 
 <!-- Parentheses and Separators -->
-<h5 id="parentheses-separators">Parentheses and Separators</h5>
+<h5 id="parentheses-separators">Parentheses and Separators <a href="#top">↑top↑</a></h5>
 
 <table>
     <tr>
@@ -281,7 +285,7 @@ $$
 </table>
 
 <!-- Limits -->
-<h5 id="limits">Limits</h5>
+<h5 id="limits">Limits <a href="#top">↑top↑</a></h5>
 
 Для рядов и интегралов можно указать приделы в корректном формате (без степеней и индексов) с помоштю команды `\limits`, где значения будут указаны 
 выше или ниже символа.
@@ -303,7 +307,7 @@ $$
 ---
 
 <!-- Series and Integrals -->
-<h4 id="series-integrals">Series and Integrals</h4>
+<h4 id="series-integrals">Series and Integrals <a href="#top">↑top↑</a></h4>
 
 <table>
     <tr>
@@ -387,7 +391,7 @@ $$
 ---
 
 <!-- Relation Symbols -->
-<h4 id="relation-symbols">Relation Symbols</h4>
+<h4 id="relation-symbols">Relation Symbols <a href="#top">↑top↑</a></h4>
 
 <table>
     <tr>
@@ -583,7 +587,7 @@ $$
 ---
 
 <!-- Binary Operations -->
-<h4 id="binary-operations">Binary Operations</h4>
+<h4 id="binary-operations">Binary Operations <a href="#top">↑top↑</a></h4>
 
 <table>
     <tr>
@@ -723,7 +727,7 @@ $$
 ---
 
 <!-- Set and/or Logic Notation -->
-<h4 id="logic-notation">Set and/or Logic Notation</h4>
+<h4 id="logic-notation">Set and/or Logic Notation <a href="#top">↑top↑</a></h4>
 
 <table>
     <tr>
@@ -835,7 +839,7 @@ $$
 ---
 
 <!-- Delimiters -->
-<h4 id="delimiters">Delimiters</h4>
+<h4 id="delimiters">Delimiters <a href="#top">↑top↑</a></h4>
 
 <table>
     <tr>
@@ -911,7 +915,7 @@ $$
 ---
 
 <!-- Greek Letters -->
-<h4 id="greek-letters">Greek Letters</h4>
+<h4 id="greek-letters">Greek Letters <a href="#top">↑top↑</a></h4>
 
 <table>
     <tr>
@@ -1019,7 +1023,7 @@ $$
 ---
 
 <!-- Other Symbols -->
-<h4 id="other-symbols">Other Symbols</h4>
+<h4 id="other-symbols">Other Symbols <a href="#top">↑top↑</a></h4>
 
 <table>
     <tr>
@@ -1091,7 +1095,7 @@ $$
 ---
 
 <!-- Trigonometric Functions -->
-<h4 id="trigonometric-functions">Trigonometric Functions</h4>
+<h4 id="trigonometric-functions">Trigonometric Functions <a href="#top">↑top↑</a></h4>
 
 <table>
     <tr>
@@ -1155,7 +1159,7 @@ $$
 ---
 
 <!-- Dots -->
-<h4 id="dots">Dots</h4>
+<h4 id="dots">Dots <a href="#top">↑top↑</a></h4>
 
 <table>
     <tr>
@@ -1185,7 +1189,7 @@ $$
 </table>
 
 <!-- Accents -->
-<h4 id="accents">Accents</h4>
+<h4 id="accents">Accents <a href="#top">↑top↑</a></h4>
 
 <table>
     <tr>
@@ -1295,7 +1299,7 @@ $$
 </table>
 
 <!-- Fonts -->
-<h4 id="fonts">Fonts</h4>
+<h4 id="fonts">Fonts <a href="#top">↑top↑</a></h4>
 
 <table>
     <tr>
@@ -1347,7 +1351,7 @@ $$
 ---
 
 <!-- Matrices and arrays -->
-<h4 id="matrices-arrays">Matrices and arrays</h4>
+<h4 id="matrices-arrays">Matrices and arrays <a href="#top">↑top↑</a></h4>
 
 В базовой матрице, как и в других табличных структурах, записи указываются по строкам, столбцы разделяются амперсандом (`&`), а новые строки 
 разделяются двойной обратной косой чертой (`\\`).
