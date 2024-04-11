@@ -1,5 +1,7 @@
 <h1 id="top">Справочник по системе компьютерной верстки LaTex</h1>
 
+<img src="https://github.com/BogdanKlimov11/LaTex_course/assets/136115919/68fa1820-2de8-411a-bd41-5c8e8975adec" alt="LaTex logo" title="LaTex" width="100%" height="auto">
+
 ---
 
 <!-- Table of Contents -->
