@@ -35,7 +35,7 @@
 ---
 
 <!-- General -->
-<h4 id="general">General <a href="#top">↑top↑</a></h4>
+<h4 id="general">Общие (General) <a href="#top">↑top↑</a></h4>
 
 В математике существует достаточно много различных символов! Ниже приведены те, к которым можно получить доступ прямо с клавиатуры:
 
@@ -44,7 +44,7 @@
 ```
 
 <!-- Degrees and indices -->
-<h5 id="degrees-indices">Degrees and Indices <a href="#top">↑top↑</a></h5>
+<h5 id="degrees-indices">Степени и индексы (Degrees and Indices) <a href="#top">↑top↑</a></h5>
 
 Степени и индексы эквивалентны верхним и нижним индексам в обычном текстовом режиме. Символ каретки (`^`; так же известный как циркумфлекс) 
 используется чтобы что-то поднять, а нижнее подчёркивание (`_`) для опускания. Если необходимо повысить или понизить выражение, содержащее 
@@ -76,7 +76,7 @@
 </table>
 
 <!-- Color -->
-<h5 id="color">Color <a href="#top">↑top↑</a></h5>
+<h5 id="color">Цвет (Color) <a href="#top">↑top↑</a></h5>
 
 В формулах можно изменять цвет символов.
 
@@ -88,7 +88,7 @@
 </table>
 
 <!-- Fractions and binomials -->
-<h5 id="fractions-binomials">Fractions and Binomials <a href="#top">↑top↑</a></h5>
+<h5 id="fractions-binomials">Дроби и биномы (Fractions and Binomials) <a href="#top">↑top↑</a></h5>
 
 Дроби создаются с помощью команды `\frac{numerator}{denominator}`. Так же и Биномиальный коэффициент можно записать используя команду `\binom`.
 
@@ -167,7 +167,7 @@ $$
 $$
 
 <!-- Roots -->
-<h5 id="roots">Roots <a href="#top">↑top↑</a></h5>
+<h5 id="roots">Корни (Roots) <a href="#top">↑top↑</a></h5>
 
 Команда `\sqrt` создаёт символ квадратного корня, окружающий математическое выражение. Он принимает необязательный аргумент в квадратных скобках 
 (`[` и `]`) для изменения показателя (степени) корня:
@@ -187,7 +187,7 @@ $$
 </table>
 
 <!-- Parentheses and Separators -->
-<h5 id="parentheses-separators">Parentheses and Separators <a href="#top">↑top↑</a></h5>
+<h5 id="parentheses-separators">Круглые скобки и разделители (Parentheses and Separators) <a href="#top">↑top↑</a></h5>
 
 <table>
     <tr>
@@ -287,7 +287,7 @@ $$
 </table>
 
 <!-- Limits -->
-<h5 id="limits">Limits <a href="#top">↑top↑</a></h5>
+<h5 id="limits">Пределы (Limits) <a href="#top">↑top↑</a></h5>
 
 Для рядов и интегралов можно указать приделы в корректном формате (без степеней и индексов) с помоштю команды `\limits`, где значения будут указаны 
 выше или ниже символа.
