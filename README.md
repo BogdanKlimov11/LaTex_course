@@ -8,27 +8,27 @@
 <h3>Table of Contents</h3>
 <nav>
     <ol>
-        <li><a href="#general">General</a></li>
+        <li><a href="#general">Общие (General)</a></li>
         <ul>
-            <li><a href="#degrees-indices">Degrees and Indices</a></li>
-            <li><a href="#color">Color</a></li>
-            <li><a href="#fractions-binomials">Fractions and Binomials</a></li>
-            <li><a href="#roots">Roots</a></li>
-            <li><a href="#parentheses-separators">Parentheses and Separators</a></li>
-            <li><a href="#limits">Limits</a></li>
+            <li><a href="#degrees-indices">Степени и индексы (Degrees and Indices)</a></li>
+            <li><a href="#color">Цвет (Color)</a></li>
+            <li><a href="#fractions-binomials">Дроби и биномы (Fractions and Binomials)</a></li>
+            <li><a href="#roots">Корни (Roots)</a></li>
+            <li><a href="#parentheses-separators">Круглые скобки и разделители (Parentheses and Separators)</a></li>
+            <li><a href="#limits">Пределы (Limits)</a></li>
         </ul>
-        <li><a href="#series-integrals">Series and Integrals</a></li>
-    	<li><a href="#relation-symbols">Relation Symbols</a></li>
-        <li><a href="#binary-operations">Binary Operations</a></li>
-        <li><a href="#logic-notation">Set and/or Logic Notation</a></li>
-        <li><a href="#delimiters">Delimiters</a></li>
-        <li><a href="#greek-letters">Greek Letters</a></li>
-        <li><a href="#other-symbols">Other Symbols</a></li>
-        <li><a href="#trigonometric-functions">Trigonometric Functions</a></li>
-        <li><a href="#dots">Dots</a></li>
-        <li><a href="#accents">Accents</a></li>
-        <li><a href="#fonts">Fonts</a></li>
-        <li><a href="#matrices-arrays">Matrices and Arrays</a></li>
+        <li><a href="#series-integrals">Ряды и интегралы (Series and Integrals)</a></li>
+    	<li><a href="#relation-symbols">Символы отношений (Relation Symbols)</a></li>
+        <li><a href="#binary-operations">Бинарные операции (Binary Operations)</a></li>
+        <li><a href="#logic-notation">Обозначение набора и/или логики (Set and/or Logic Notation)</a></li>
+        <li><a href="#delimiters">Разделители (Delimiters)</a></li>
+        <li><a href="#greek-letters">Греческие буквы (Greek Letters)</a></li>
+        <li><a href="#other-symbols">Другие символы (Other Symbols)</a></li>
+        <li><a href="#trigonometric-functions">Тригонометрические функции (Trigonometric Functions)</a></li>
+        <li><a href="#dots">Точки (Dots)</a></li>
+        <li><a href="#accents">Акценты (Accents)</a></li>
+        <li><a href="#fonts">Шрифты (Fonts)</a></li>
+        <li><a href="#matrices-arrays">Матрицы и массивы (Matrices and Arrays)</a></li>
     </ol>
 </nav>
 
