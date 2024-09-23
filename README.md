@@ -14,7 +14,7 @@
             <li><a href="#color">Цвет (Color)</a></li>
             <li><a href="#fractions-binomials">Дроби и биномы (Fractions and Binomials)</a></li>
             <li><a href="#roots">Корни (Roots)</a></li>
-            <li><a href="#parentheses-separators">Круглые скобки и разделители (Parentheses and Separators)</a></li>
+            <li><a href="#parentheses-separators">Скобки и разделители (Parentheses and Separators)</a></li>
             <li><a href="#limits">Пределы (Limits)</a></li>
         </ul>
         <li><a href="#series-integrals">Ряды и интегралы (Series and Integrals)</a></li>
@@ -187,7 +187,7 @@ $$
 </table>
 
 <!-- Parentheses and Separators -->
-<h5 id="parentheses-separators">Круглые скобки и разделители (Parentheses and Separators) <a href="#top">↑top↑</a></h5>
+<h5 id="parentheses-separators">Скобки и разделители (Parentheses and Separators) <a href="#top">↑top↑</a></h5>
 
 <table>
     <tr>
@@ -309,7 +309,7 @@ $$
 ---
 
 <!-- Series and Integrals -->
-<h4 id="series-integrals">Series and Integrals <a href="#top">↑top↑</a></h4>
+<h4 id="series-integrals">Ряды и интегралы (Series and Integrals) <a href="#top">↑top↑</a></h4>
 
 <table>
     <tr>
@@ -393,7 +393,7 @@ $$
 ---
 
 <!-- Relation Symbols -->
-<h4 id="relation-symbols">Relation Symbols <a href="#top">↑top↑</a></h4>
+<h4 id="relation-symbols">Символы отношений (Relation Symbols) <a href="#top">↑top↑</a></h4>
 
 <table>
     <tr>
@@ -589,7 +589,7 @@ $$
 ---
 
 <!-- Binary Operations -->
-<h4 id="binary-operations">Binary Operations <a href="#top">↑top↑</a></h4>
+<h4 id="binary-operations">Бинарные операции (Binary Operations) <a href="#top">↑top↑</a></h4>
 
 <table>
     <tr>
@@ -729,7 +729,7 @@ $$
 ---
 
 <!-- Set and/or Logic Notation -->
-<h4 id="logic-notation">Set and/or Logic Notation <a href="#top">↑top↑</a></h4>
+<h4 id="logic-notation">Обозначение набора и/или логики (Set and/or Logic Notation) <a href="#top">↑top↑</a></h4>
 
 <table>
     <tr>
@@ -841,7 +841,7 @@ $$
 ---
 
 <!-- Delimiters -->
-<h4 id="delimiters">Delimiters <a href="#top">↑top↑</a></h4>
+<h4 id="delimiters">Разделители (Delimiters) <a href="#top">↑top↑</a></h4>
 
 <table>
     <tr>
@@ -917,7 +917,7 @@ $$
 ---
 
 <!-- Greek Letters -->
-<h4 id="greek-letters">Greek Letters <a href="#top">↑top↑</a></h4>
+<h4 id="greek-letters">Греческие буквы (Greek Letters) <a href="#top">↑top↑</a></h4>
 
 <table>
     <tr>
@@ -1025,7 +1025,7 @@ $$
 ---
 
 <!-- Other Symbols -->
-<h4 id="other-symbols">Other Symbols <a href="#top">↑top↑</a></h4>
+<h4 id="other-symbols">Другие символы (Other Symbols) <a href="#top">↑top↑</a></h4>
 
 <table>
     <tr>
@@ -1097,7 +1097,7 @@ $$
 ---
 
 <!-- Trigonometric Functions -->
-<h4 id="trigonometric-functions">Trigonometric Functions <a href="#top">↑top↑</a></h4>
+<h4 id="trigonometric-functions">Тригонометрические функции (Trigonometric Functions) <a href="#top">↑top↑</a></h4>
 
 <table>
     <tr>
@@ -1161,7 +1161,7 @@ $$
 ---
 
 <!-- Dots -->
-<h4 id="dots">Dots <a href="#top">↑top↑</a></h4>
+<h4 id="dots">Точки (Dots) <a href="#top">↑top↑</a></h4>
 
 <table>
     <tr>
@@ -1191,7 +1191,7 @@ $$
 </table>
 
 <!-- Accents -->
-<h4 id="accents">Accents <a href="#top">↑top↑</a></h4>
+<h4 id="accents">Акценты (Accents) <a href="#top">↑top↑</a></h4>
 
 <table>
     <tr>
@@ -1301,7 +1301,7 @@ $$
 </table>
 
 <!-- Fonts -->
-<h4 id="fonts">Fonts <a href="#top">↑top↑</a></h4>
+<h4 id="fonts">Шрифты (Fonts) <a href="#top">↑top↑</a></h4>
 
 <table>
     <tr>
@@ -1353,7 +1353,7 @@ $$
 ---
 
 <!-- Matrices and arrays -->
-<h4 id="matrices-arrays">Matrices and arrays <a href="#top">↑top↑</a></h4>
+<h4 id="matrices-arrays">Матрицы и массивы (Matrices and Arrays) <a href="#top">↑top↑</a></h4>
 
 В базовой матрице, как и в других табличных структурах, записи указываются по строкам, столбцы разделяются амперсандом (`&`), а новые строки 
 разделяются двойной обратной косой чертой (`\\`).
