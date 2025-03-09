@@ -282,7 +282,7 @@ $$
 <table>
     <tr>
         <td>$( \big( \Big( \bigg( \Bigg( \Bigg) \bigg) \Big) \big) )$</td>
-        <td><code>\left.\frac{x^3}{3}\right|_0^1</code></td>
+        <td><code>( \big( \Big( \bigg( \Bigg( \Bigg) \bigg) \Big) \big) )</code></td>
     </tr>
 </table>
 
